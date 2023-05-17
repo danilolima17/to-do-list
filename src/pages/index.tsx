@@ -3,6 +3,7 @@ import Content from "../components/Content";
 import Date from "../components/Date";
 import Controlls from "../components/Control";
 
+
 export default function Home() {
   return (
     <>
